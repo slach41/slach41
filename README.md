@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Mohammad Salfeety
+# Hey there! 👋 
 
-An IT & Cybersecurity Professional and Design Engineer at heart, focused on securing environments, optimizing networks, and providing top-tier technical support. I bridge the gap between complex system administration and proactive security operations.
+I'm Mohammad Salfeety An IT & Cybersecurity Professional and Design Engineer at heart, focused on securing environments, optimizing networks, and providing top-tier technical support. I bridge the gap between complex system administration and proactive security operations.
 
 - 🎯 **What I do:** Monitor, analyze logs, and investigate incidents to keep infrastructures safe.
 - 🚀 **Currently working on:** Enhancing my hands-on experience in SOC workflows and advanced threat hunting.
