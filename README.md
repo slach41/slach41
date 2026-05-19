@@ -38,6 +38,6 @@ An IT & Cybersecurity Professional and Design Engineer at heart, focused on secu
 
 If you want to discuss a project, need technical support, or are looking for a dedicated SOC Analyst / Helpdesk Specialist to join your team, let's connect!
 
-- 💼 **LinkedIn:** [https://linkedin.com/in/mohammad-salfeety]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/mohammad-salfeety-38a698397/]
 - 📧 **Email:** [mhmad.unique838@gmail.com]
 - 📍 **Location:** Haifa, Israel
