@@ -25,7 +25,7 @@ This profile showcases my hands-on labs and technical experience across both off
 
 - **SOC Level 1 Certification** — *ICS College, Haifa* (200-hour intensive cybersecurity & SIEM training)
 - **Computer Engineering** — *Undergraduate Studies (Paused)* (3 years of core coursework in networking, systems, and architecture)
-
+- **Splunk Enterprise Security Investigations — Splunk Education (Certificate & Badge)
 ---
 
 ### ⚡ Fun Facts & Strengths
