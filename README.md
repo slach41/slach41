@@ -13,12 +13,17 @@ This profile showcases my hands-on labs and technical experience across both off
 ### 🛠️ Tech Stack & Core Competencies
 
 | Security Operations | IT Support & Helpdesk | Systems & Networking |
-| :--- | :--- | :--- |
-| 🛡️ Splunk SIEM | 🖥️ End-User Support | 🪟 Windows OS & Server |
-| 📊 Log & Traffic Analysis | 🎟️ Ticket Handling & Escalation | 🐧 Linux CLI (Bash) |
-| 🚨 Alert Triage & Investigation | 🔧 Windows Troubleshooting | 🌐 TCP/IP, DNS, HTTP/S, SSH |
-| 🪵 Windows Event Logs | 🔑 Account & Access Issues | 🔐 Authentication Protocols |
-
+|🛡️ Splunk Enterprise & Enterprise Security (ES)
+🔎 SPL (Search Processing Language)
+📊 Log & Traffic Analysis
+🚨 Alert Triage & Investigation
+🪵 Windows Event Logs
+🎯 MITRE ATT&CK
+⚖️ Risk-Based Alerting (RBA)
+🤖 SOAR Fundamentals
+🐧 Linux CLI (Bash)
+🌐 TCP/IP, DNS, HTTP/S, SSH
+🪟 Windows OS & Server
 ---
 
 ### 📜 Certifications & Education
