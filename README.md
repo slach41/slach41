@@ -1,6 +1,6 @@
 # Hey there! 👋 
 
-I'm Mohammad Salfeety, a Cybersecurity & SOC Analyst (Junior) with a solid foundation in computer engineering, networking, and technical support. I bridge the gap between complex system administration and proactive security operations. 
+I'm Mohammad Salfeety, a Cybersecurity & Aspiring SOC Analyst with a solid foundation in computer engineering, networking, and technical support. I bridge the gap between complex system administration and proactive security operations. 
 
 This profile showcases my hands-on labs and technical experience across both offensive security concepts and defensive log triage.
 
